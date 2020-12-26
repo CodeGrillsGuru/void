@@ -4,10 +4,7 @@
 <a href="https://unknownhackers252050798.wordpress.com/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-void-green.svg"></a>
 <a href="https://unknownhackers252050798.wordpress.com/"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://unknownhackers252050798.wordpress.com/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-<a href="https://unknownhackers252050798.wordpress.com/"><img title="guru grover" src="https://user-images.githubusercontent.com/49580304/102707183-9da9d480-424d-11eb-86c2-8b56a6c43fe0.jpg"></a>
-</p>
+
 <p align="center">
 </p>
 <p align="center">
