@@ -18,5 +18,5 @@ cd $HOME
 cd /sdcard
 mkdir vanrc
 cd $HOME/void
-rm setup
+unzip core.zip
 bash void
