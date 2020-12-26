@@ -55,6 +55,7 @@ void is a bash based script which is officially made for creating all os based v
 * `cd void`
 * `ls`
 * `bash setup`
+* `unzip core.zip`
 * `bash void`
 ```
 [+]-- We dont hold any reponsibility if you face any data loss
