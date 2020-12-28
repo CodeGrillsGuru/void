@@ -34,9 +34,9 @@ banner
 
 menu(){
 echo
-echo -e "                 \e[92m─\e[0m\e[92m(\e[91m1\e[92m)\e[0m\e[92m─\e[0m\e[91m Vanish Device\e[0m"
+echo -e "                 \e[92m─\e[0m\e[92m(\e[91m1\e[92m)\e[0m\e[92m─\e[0m\e[91m Infect Device\e[0m"
 echo -e "                 \e[92m─\e[0m\e[92m(\e[91m2\e[92m)\e[0m\e[92m─\e[0m\e[91m Save Device\e[0m"
-echo -e "                 \e[92m─\e[0m\e[92m(\e[91m3\e[92m)\e[0m\e[92m─\e[0m\e[91m Update Vanish\e[0m"
+echo -e "                 \e[92m─\e[0m\e[92m(\e[91m3\e[92m)\e[0m\e[92m─\e[0m\e[91m Update Void\e[0m"
 echo -e "                 \e[92m─\e[0m\e[92m(\e[91m4\e[92m)\e[0m\e[92m─\e[0m\e[91m About Coder\e[0m"
 echo -e "                 \e[92m─\e[0m\e[92m(\e[91m5\e[92m)\e[0m\e[92m─\e[0m\e[91m Subscribe\e[0m"
 echo -e "                 \e[92m─\e[0m\e[92m(\e[91m6\e[92m)\e[0m\e[92m─\e[0m\e[91m Exit\e[0m"
