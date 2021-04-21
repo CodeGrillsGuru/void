@@ -83,11 +83,7 @@ __EXIT__ :
 
 ## SCREEN SHOTS [Termux]
 
-<br>
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/102707181-9b477a80-424d-11eb-8606-e91b13c86849.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/102707182-9d113e00-424d-11eb-8ace-7816912f1b79.jpg"/>
-</p>
+
 
 
 
